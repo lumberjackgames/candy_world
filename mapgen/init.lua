@@ -1,3 +1,9 @@
+mapgen = {}
+
+mp = minetest.get_modpath("mapgen")
+dofile(mp .. "/biomes.lua")
+dofile(mp .. "/decorations.lua")
+
 -- Mapgen settings
 local mapgen_name = minetest.get_mapgen_setting("mg_name")
 if mapgen_name ~= "singlenode" and mapgen_name ~= "flat" then
