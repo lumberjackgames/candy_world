@@ -1,0 +1,6 @@
+[submodule "sugar"]
+	path = sugar
+	url = https://github.com/lumberjackgames/sugar
+[submodule "mtcandy"]
+	path = mtcandy
+	url = https://github.com/lumberjackgames/mtcandy
