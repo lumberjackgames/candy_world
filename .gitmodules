@@ -4,3 +4,6 @@
 [submodule "mtcandy"]
 	path = mtcandy
 	url = https://github.com/lumberjackgames/mtcandy
+[submodule "ski"]
+	path = ski
+	url = https://github.com/qawsedrftgzh/Ski
