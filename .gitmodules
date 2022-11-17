@@ -16,3 +16,6 @@
 [submodule "christmas_decor"]
 	path = christmas_decor
 	url = https://github.com/GreenXenith/christmas_decor
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks
