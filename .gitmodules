@@ -7,3 +7,6 @@
 [submodule "ski"]
 	path = ski
 	url = https://github.com/qawsedrftgzh/Ski
+[submodule "rainbow_source"]
+	path = rainbow_source
+	url = https://github.com/Ezhh/rainbow_source
