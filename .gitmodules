@@ -10,3 +10,9 @@
 [submodule "rainbow_source"]
 	path = rainbow_source
 	url = https://github.com/Ezhh/rainbow_source
+[submodule "mobs_redo"]
+	path = mobs_redo
+	url = https://notabug.org/tenplus1/mobs_redo
+[submodule "christmas_decor"]
+	path = christmas_decor
+	url = https://github.com/GreenXenith/christmas_decor
