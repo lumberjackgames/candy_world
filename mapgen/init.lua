@@ -1,7 +1,6 @@
 mapgen = {}
 
 mp = minetest.get_modpath("mapgen")
-dofile(mp .. "/functions.lua")
 dofile(mp .. "/biomes.lua")
 dofile(mp .. "/decorations.lua")
 
